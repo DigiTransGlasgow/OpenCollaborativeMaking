@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+collections:
+        contributions:
+                output: true
+                defaults:
+                        values:
+layout: default
