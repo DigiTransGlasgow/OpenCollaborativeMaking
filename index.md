@@ -37,7 +37,7 @@ REACT: Objects Sandbox, Reflector. Photograph by Uniform ©
 Fabrica : The 7 Lamps of Making (x2) Photographs by Shek Po Kwan / Fabrika ©  
 All images are copyright to their respective owners.
 
-![]({{ '/assets/images/cover.jpg' | relative_url }})
+![]({{ '/assets/images/back.jpg' | relative_url }})
 
 **Contact:**  
 Jon Rogers (j.rogers@dundee.ac.uk )  
