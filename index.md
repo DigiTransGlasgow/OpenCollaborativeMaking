@@ -20,25 +20,24 @@ Jon Rogers, Irini Papadimitriou and Andrew Prescott
 uniform.net
 
 **Image Credits**
-In order of appearance in the book;
-Microsoft Research : Tenison Road Street Party (x2.) Photograph by David Sweeney ©
-BBC R&D : Perceptive Radio. Photograph by BBC Research & Development 2014 ©
-BBC R&D : Playlister Fob Prototypes. Photograph by BBC Research & Development 2014 ©
-BBC R&D : The Physical Playlist Machine. Photograph by BBC Research & Development 2014 ©
-Met Office : Space Apps 2013 Photograph by Adam Burt ©
-Met Office : The Explorable Story Project Photograph by Martha Sedgwick ©
-Met Office : Genevieve and Her Dancers Visualisation by Peter Cook ©
-Uniform & Studio PSK : Kixl Photograph by Uniform ©
-Funded by:
-Uniform & Studio PSK : Weather Systems Photograph by Uniform ©
-AHRC : Data-object (2013), bronze cast by Koutaro Sano, visualising data on age and dexterity. Photograph by Ian Gwilt ©
-AHRC : Marginalia Machine. The Poetics of the Archive: Creative and Community Engagement with the Bloodaxe Archive. Photograph by Tom Scho eld ©
-REACT: Objects Sandbox, InTouch. Photograph by Kinneir Dufort ©
-REACT: Objects Sandbox, Reflector. Photograph by Uniform ©
-Fabrica : The 7 Lamps of Making (x2) Photographs by Shek Po Kwan / Fabrika ©
+In order of appearance in the book;  
+Microsoft Research : Tenison Road Street Party (x2.) Photograph by David Sweeney ©  
+BBC R&D : Perceptive Radio. Photograph by BBC Research & Development 2014 ©  
+BBC R&D : Playlister Fob Prototypes. Photograph by BBC Research & Development 2014 ©  
+BBC R&D : The Physical Playlist Machine. Photograph by BBC Research & Development 2014 ©  
+Met Office : Space Apps 2013 Photograph by Adam Burt ©  
+Met Office : The Explorable Story Project Photograph by Martha Sedgwick ©  
+Met Office : Genevieve and Her Dancers Visualisation by Peter Cook ©  
+Uniform & Studio PSK : Kixl Photograph by Uniform ©  
+Uniform & Studio PSK : Weather Systems Photograph by Uniform ©  
+AHRC : Data-object (2013), bronze cast by Koutaro Sano, visualising data on age and dexterity. Photograph by Ian Gwilt ©  
+AHRC : Marginalia Machine. The Poetics of the Archive: Creative and Community Engagement with the Bloodaxe Archive. Photograph by Tom Schofield ©  
+REACT: Objects Sandbox, InTouch. Photograph by Kinneir Dufort ©  
+REACT: Objects Sandbox, Reflector. Photograph by Uniform ©  
+Fabrica : The 7 Lamps of Making (x2) Photographs by Shek Po Kwan / Fabrika ©  
 All images are copyright to their respective owners.
 
-![](images/back.jpg)
+![]({{ '/assets/images/cover.jpg' | relative_url }})
 
 **Contact:**
 Jon Rogers (j.rogers@dundee.ac.uk )
