@@ -17,6 +17,7 @@ ISBN : 978-0-9576868-1-6 Printed in Great Britain.
 **Edited by**
 
 Jon Rogers, Irini Papadimitriou and Andrew Prescott
+
 **Design by**
 
 uniform.net
