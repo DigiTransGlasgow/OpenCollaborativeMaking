@@ -5,7 +5,5 @@ layout: default
 <b>Content:</b>
 
 {% for item in site.contributions %}
-
-    {{ item.title }}
-
+<ul><li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li></ul>
 {% endfor %}
