@@ -2,3 +2,14 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+html body div.wrapper section p {
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.cover {
+
+	max-width: 100%;
+
+}
