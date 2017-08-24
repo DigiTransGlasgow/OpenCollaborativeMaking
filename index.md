@@ -14,12 +14,12 @@ All Rights Reserved. No part of this publication may be reproduced or transmitte
 
 ISBN : 978-0-9576868-1-6 Printed in Great Britain.
 
-**Edited by**
+**Edited by**  
 Jon Rogers, Irini Papadimitriou and Andrew Prescott
-**Design by**
+**Design by**  
 uniform.net
 
-**Image Credits**
+**Image Credits**  
 In order of appearance in the book;  
 Microsoft Research : Tenison Road Street Party (x2.) Photograph by David Sweeney ©  
 BBC R&D : Perceptive Radio. Photograph by BBC Research & Development 2014 ©  
@@ -39,7 +39,7 @@ All images are copyright to their respective owners.
 
 ![]({{ '/assets/images/cover.jpg' | relative_url }})
 
-**Contact:**
-Jon Rogers (j.rogers@dundee.ac.uk )
-Irini Papadimitiou (i.papadimitriou@vam.ac.uk)
-Andrew Prescott (andrew.prescott@kcl.ac.uk)
+**Contact:**  
+Jon Rogers (j.rogers@dundee.ac.uk )  
+Irini Papadimitiou (i.papadimitriou@vam.ac.uk)  
+Andrew Prescott (andrew.prescott@kcl.ac.uk)  
